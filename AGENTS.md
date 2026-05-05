@@ -11,6 +11,10 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 
 - This project is set up to use SwiftFormat.
 - The `Package.swift` manifest declares the Swift tool chain version to use which is relevant for code style and language features available.
+- Every type declarations must reside in its own source code file.
+- Every type declaration must have a documentation comment.
+- Every property declaration must have a documentation comment.
+- Documentation comments should also explain how the documented type or property relates to other symbols in the project.
 
 ## Testing Instructions
 
