@@ -15,6 +15,8 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 - Every type declaration must have a documentation comment.
 - Every property declaration must have a documentation comment.
 - Documentation comments should also explain how the documented type or property relates to other symbols in the project.
+- Documentation comments should have one empty line at their top and their bottom each.
+- Never wrap arguments in func declarations or calls.
 
 ## Testing Instructions
 
