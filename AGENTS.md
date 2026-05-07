@@ -16,6 +16,7 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 - Every property declaration must have a documentation comment.
 - Documentation comments should also explain how the documented type or property relates to other symbols in the project.
 - Documentation comments should have one empty line at their top and their bottom each.
+- Documentation comments must not wrap at a fixed column count but when a sentence is finished. Line lengths do not matter in documentation comments. A full sentence should always be written into a single line.
 - Never wrap arguments in func declarations or calls.
 
 ## Testing Instructions
