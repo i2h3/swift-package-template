@@ -22,7 +22,13 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 ## Testing Instructions
 
 - Run `swift test` in the repository root directory.
+- 
+## Documentation Instructions
 
+- Always check existing documentation comments for validity and update, if necessary.
+- Whenever the files and folders within the repository change, update the "Repository Structure" section of this document accordingly.
+- Always check the `./README.md` for validity and update, if necessary.
+- 
 ## Pull Request Instructions
 
 - Always run `swift package plugin --allow-writing-to-package-directory swiftformat --verbose --cache ignore` before committing.
