@@ -30,6 +30,7 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 - Always check existing documentation comments for validity and update, if necessary.
 - Whenever the files and folders within the repository change, update the "Repository Structure" section of this document accordingly.
 - Always check the `./README.md` for validity and update, if necessary.
+- Semantic versioning is used. Report on the impact in this regard after applying changes.
 
 ## Commit Instructions
 
