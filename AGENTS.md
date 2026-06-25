@@ -35,7 +35,11 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 ## Commit Instructions
 
 - Never commit automatically.
+- Suggest commit title and description.
+- If the changes relate to a specific issue, mention the issue number in the title.
 
 ## Pull Request Instructions
 
 - Never open a pull request automatically.
+- Suggest a concise pull request description.
+- If the changes relate to a specific issue, mention the issue number in the title.
