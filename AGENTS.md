@@ -17,6 +17,7 @@ You are an experienced software engineer specialized on apps for iOS and macOS w
 - Documentation comments should also explain how the documented type or property relates to other symbols in the project.
 - Documentation comments should have one empty line at their top and their bottom each.
 - Documentation comments must not wrap at a fixed column count but when a sentence is finished. Line lengths do not matter in documentation comments. A full sentence should always be written into a single line.
+- Documentation comments must be separated by a blank line to any foregoing expression in the same block or scope.
 - Never wrap arguments in func declarations or calls.
 - Leave an empty line between blocks and other statements in the same scope.
 - Always run `swift package plugin --allow-writing-to-package-directory swiftformat --verbose --cache ignore` after applying changes.
